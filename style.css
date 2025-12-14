@@ -41,7 +41,7 @@ body{
     font-size: 25px;
     margin-top: 12px;
     cursor: pointer;
-    transition: color 0.4s ease;
+    transition: 0.3s ease;
 }
 .heading b:hover{
     color: hsl(47, 88%, 63%);
