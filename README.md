@@ -12,12 +12,8 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this blog preview card and get it looking as close to the design as possible.
+My challenge is to build out this blog preview card and get it looking as close to the design as possible.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to:
-
-- See hover and focus states for all interactive elements on the page
+I use tools like HTML5 and css flexbox help my challenge to be complete. So if you've got something you'd like to add, feel free to give it a go.
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
